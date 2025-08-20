@@ -98,7 +98,7 @@ Content-Length: 125
 ```
 
 ---
-
+```
 
              ┌────────────────────┐
              │   Avvio server     │
@@ -162,3 +162,4 @@ Content-Length: 125
              │ Connessione chiusa │
              │    o persistente   │
              └────────────────────┘
+```
